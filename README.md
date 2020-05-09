@@ -1,2 +1,2 @@
 # cv
-Personal HTML Site
+A hideous looking CV website
